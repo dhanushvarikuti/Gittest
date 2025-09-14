@@ -1,12 +1,16 @@
 some git commands
 git init
 
-git add filename
+git add filename        or    git add . // to add all
 
 git  commit -m "Message"
 
 git rm --cached filename  // to remove the git connection to that file , so we can delete it
 
 git status
+
+git remote add origin https://link.......    // used to create a remote repository 
+git push -u origin main
+
 
 
