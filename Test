@@ -12,5 +12,22 @@ git status
 git remote add origin https://link.......    // used to create a remote repository 
 git push -u origin main
 
+git remote -v .. used to find the fetch and push for remote repo
+
+git clone link
+Tagging: we need to push the tags separately , tags point to commit
+1.Annotated Tagging :  git tag -a v1.0 -m "First Release"
+
+2.LightWeight Tagging : 
+
+git branching :
+switch / checkout both are same
+1.git checkout:
+        git checkout -b branch name: // create new branch
+        git 
+    
+2. git switch 
+
+
 
 
